@@ -39,7 +39,7 @@ const Footer = () => {
           // href="#privacy-policy"
           className="text-center text-sm font-light md:text-right"
         >
-          Long Live CODEX
+          Long Live CODEX!
         </p>
       </div>
     </footer>
